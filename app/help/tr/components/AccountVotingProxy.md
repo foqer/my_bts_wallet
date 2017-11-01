@@ -1,0 +1,1 @@
+Bir vekil adınıza oy kullanımını yönetir. FlashChain forumunda vekil olarak görev almaya gnüllü kişileri bulabilirsiniz  [FlashChaintalk](https://flashchaintalk.org/index.php/board,75.0.html). 

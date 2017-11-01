@@ -1,0 +1,1 @@
+[Taniklar](introduction/witness) FlashChain'in blok üreticileridirler. İşlemlerin geçerliliklerini teyit eder ve ağın güvenliğini sağlarlar. Dilediğiniz kadar tanığa oy verebilirsiniz, hepsi aynı miktarda alır. Tanık tekliflerini buradan takip edebilirsiniz: [FlashChaintalk - Stakeholder Proposals Board](https://flashchaintalk.org/index.php/board,75.0.html).
