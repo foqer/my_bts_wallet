@@ -203,7 +203,7 @@
     "json-loader": "^0.5.4",
     "mocha": "^3.2.0",
     "node-libs-browser": "^1.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^0.8.2",
     "remarkable-loader": "^0.2.1",
     "sass-loader": "^6.0.6",
